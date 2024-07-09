@@ -210,5 +210,5 @@ AWS_S3_OBJECT_PARAMETERS = {
     'ACL': 'public-read'
 }
 
-# Media files configuration
+# Media files
 DEFAULT_FILE_STORAGE = 'config.storage_backends.MediaStorage'
